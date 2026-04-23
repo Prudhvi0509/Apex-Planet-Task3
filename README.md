@@ -42,4 +42,5 @@ https://opentdb.com/api.php?amount=10&type=multiple
      - `background.png`
 
 2. **Run the Project:**
-   - Double-click `index.html` or open it with your preferred browser.
+   - Double-click `index.html` or open it with your preferred browser
+WebPage Link:https://prudhvi0509.github.io/Apex-Planet-Task3/
