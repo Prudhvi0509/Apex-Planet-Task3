@@ -22,6 +22,7 @@ The project fulfills the following objectives:
 - **Custom Background Image:** Uses a downloaded background image for enhanced visual appearance.
 
 ---
+WebPage Link:https://prudhvi0509.github.io/Apex-Planet-Task3/
 
 ## 🔗 API Used:
 **Open Trivia Database API**  
@@ -29,6 +30,7 @@ The project fulfills the following objectives:
 
 Sample API Endpoint:
 ```plaintext
+
 https://opentdb.com/api.php?amount=10&type=multiple
 
 
@@ -43,4 +45,3 @@ https://opentdb.com/api.php?amount=10&type=multiple
 
 2. **Run the Project:**
    - Double-click `index.html` or open it with your preferred browser
-WebPage Link:https://prudhvi0509.github.io/Apex-Planet-Task3/
